@@ -15,8 +15,7 @@ While the program meets functional requirements, optimization could include:
 **Challenges Overcome**
 The most challenging aspect was ensuring the program's file I/O operations worked seamlessly across various environments. Debugging issues like undefined references and incorrect file paths required consulting documentation and using a structured debugging approach. Additionally, resources like the C++ standard library documentation and online programming communities were invaluable.
 
-**Transferable Skills**
-From this project, I gained:
+**Transferable Skills From this project, I gained:**
 
 **File I/O Handling:** Skills for reading from and writing to files.
 **Data Structures:** Practical use of maps for data organization.
